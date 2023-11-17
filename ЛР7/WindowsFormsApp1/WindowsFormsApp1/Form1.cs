@@ -222,7 +222,7 @@ namespace WindowsFormsApp1
             if(count != textBox1.Text.Length) 
             {
                 MessageBox.Show("Введите только числа");
-                
+                textBox1.Text = ""; 
             }
         }
     }
