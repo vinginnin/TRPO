@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using static System.Windows.Forms.AxHost;
 // проект крутой мне нравится заканчиваем это дела
 // пай чарм топ
+//привет а?
 namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
