@@ -103,7 +103,7 @@ namespace WindowsFormsApp1
             {
                 atm.Request(3);
                 atm.State = new WaitingState();
-                button5.Text = atm.State.ToString().Remove(0,23);
+                
                 lol = 1;
             }
         }
@@ -120,7 +120,7 @@ namespace WindowsFormsApp1
                     if (atm.Money > 0)
                     {
                         atm.State = new OperationState();
-                        button5.Text = atm.State.ToString().Remove(0,23);
+                        
                         lol = 3;
                     }
                 }
@@ -147,7 +147,7 @@ namespace WindowsFormsApp1
                     if(atm.Money == 0)
                     {
                         atm.State = new BlockedState();
-                        button5.Text = atm.State.ToString().Remove(0,23);
+                        
                         lol++;
                     }
                 }
@@ -168,7 +168,7 @@ namespace WindowsFormsApp1
             {
                 atm.Request(1);
                 atm.State = new UserAuthenticationState();
-                button5.Text = atm.State.ToString().Remove(0,23);
+                
             }
             if(lol==2)
             {
@@ -176,7 +176,7 @@ namespace WindowsFormsApp1
                 {
                     atm.Request(1);
                     atm.State = new OperationState();
-                    button5.Text = atm.State.ToString().Remove(0,23);
+                    
                 }
                 else
                 {
@@ -196,7 +196,7 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            button5.Text = atm.State.ToString().Remove(0,23);
+            
         }
     
         private void label3_Click(object sender, EventArgs e)
