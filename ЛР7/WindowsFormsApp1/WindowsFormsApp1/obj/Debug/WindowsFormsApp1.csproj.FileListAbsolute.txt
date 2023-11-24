@@ -29,3 +29,13 @@ C:\Users\markk\OneDrive\Рабочий стол\Prject TRPO\TRPO\ЛР7\WindowsFo
 C:\Users\markk\OneDrive\Рабочий стол\Prject TRPO\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\markk\OneDrive\Рабочий стол\Prject TRPO\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\markk\OneDrive\Рабочий стол\Prject TRPO\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Documents\TRPO\ЛР7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
