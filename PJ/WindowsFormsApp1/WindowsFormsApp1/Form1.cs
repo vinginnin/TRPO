@@ -154,7 +154,14 @@ namespace WindowsFormsApp1
                 }
                 else
                 {
-                    MessageBox.Show("Введите данные");
+                    if(textBox1.Text == "")
+                    {
+                        MessageBox.Show("Введите данные");
+                    }
+                    else
+                    {
+                        MessageBox.Show("В банокмате нету такой суммы");
+                    }
                 }
             }
             else
