@@ -11,6 +11,7 @@ using static System.Windows.Forms.AxHost;
 // проект крутой мне нравится заканчиваем это дела
 // пай чарм топ
 //привет а?
+//что делать 
 namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
@@ -165,6 +166,7 @@ namespace WindowsFormsApp1
 
         private void button2_Click(object sender, EventArgs e)
         {
+            
             if(lol==1)
             {
                 atm.Request(1);
